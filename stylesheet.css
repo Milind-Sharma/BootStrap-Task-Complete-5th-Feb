@@ -1,0 +1,53 @@
+
+.container{
+  width:1500px;
+}
+ .bcd{
+  background-image: linear-gradient(to right, purple, deeppink);
+  margin-left:0%;
+  height:300px;
+}
+
+.container1{
+  clear:both;
+  margin-left:12px;
+}
+
+.container2{
+  margin-left:13px;
+}
+
+.def{
+  margin-top:3.5%;
+  background:black;
+  height:170px;
+  color:white;
+  text-align:center;
+}
+
+
+.box2{
+  background-color: lightgrey;
+  border:2px solid grey;
+  margin:20px;
+  height: 200px;
+  margin-left:0px;
+}
+
+.box3{
+  background-color: white;
+ 
+  margin:20px;
+  height: 200px;
+  margin-left:15px;
+}
+nav{
+margin-top:8px;
+   }
+
+
+    .abc{ 
+      margin-top: -50px;
+        }
+
+
